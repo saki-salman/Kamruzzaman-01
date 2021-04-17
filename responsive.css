@@ -286,7 +286,7 @@
                     width: 100%;
                 }
             }
-            @media (max-width:360px) {
+            @media (max-width:576px) {
                 header .header-laft img {
                     margin-left: 2rem;
                 }
